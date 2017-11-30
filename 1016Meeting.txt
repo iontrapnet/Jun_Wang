@@ -1,6 +1,0 @@
-1. 采购进度
-	第三批激光器申请没交
-	第二批光学平台已经预付
-2. AOD
-	把cross AOM转成X config, address到斜45度的线上的ions, 可以把频率补偿.
-	切换越快越好. 180 micro m
