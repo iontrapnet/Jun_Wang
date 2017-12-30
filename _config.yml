@@ -1,22 +1,22 @@
-theme: jekyll-theme-architect
-title: Ion Trap/ Jun_Wang
-tagline: Jun_Wang @ TIQC Lab
-owner: congzlwag
-#link: http://www.iontrap.net
-#copyright: '&copy;&nbsp;<a href="http://www.iontrap.net">IonTrap.Net</a>'
+# theme: jekyll-theme-architect
+# title: Ion Trap/ Jun_Wang
+# tagline: Jun_Wang @ TIQC Lab
+# owner: congzlwag
+# #link: http://www.iontrap.net
+# #copyright: '&copy;&nbsp;<a href="http://www.iontrap.net">IonTrap.Net</a>'
 
-permalink: pretty
-markdown: kramdown
-kramdown:
-    input: GFM
-    math_engine: mathjax
-    auto_ids: true
-    syntax_highlighter: rouge
-    syntax_highlighter_opts:
-        # Use existing pygments syntax highlighting css
-        css_class: 'highlight'
-#markdown: redcarpet
-#redcarpet:
-#    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "highlight", "quote", "footnotes", "strikethrough", "with_toc_data"]
-gems:
-  - jekyll-sitemap
+# permalink: pretty
+# markdown: kramdown
+# kramdown:
+#     input: GFM
+#     math_engine: mathjax
+#     auto_ids: true
+#     syntax_highlighter: rouge
+#     syntax_highlighter_opts:
+#         # Use existing pygments syntax highlighting css
+#         css_class: 'highlight'
+# #markdown: redcarpet
+# #redcarpet:
+# #    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "highlight", "quote", "footnotes", "strikethrough", "with_toc_data"]
+# gems:
+#   - jekyll-sitemap
