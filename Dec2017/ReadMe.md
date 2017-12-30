@@ -1,8 +1,3 @@
----
-math: true
-title: AOD Investigation
----
-
 ### 十二月主要工作
 
 #### 12.4-12.18
