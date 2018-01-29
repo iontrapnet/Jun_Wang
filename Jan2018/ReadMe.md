@@ -28,5 +28,5 @@
 
 ### 购置
 * AOD及其驱动
-	* 结果: [Gooch & Housego AODF 4110](http://www.iontrap.net/Jun_Wang/%E8%B4%AD%E7%BD%AE/GoochHousegoAOD/97-03283-02%20SN2192%20Data%20Sheet.pdf), 两个.
+	* 结果: [Gooch & Housego AODF 4110](http://www.iontrap.net/Jun_Wang/购置/GoochHousegoAOD/97-03283-02 SN2192 Data Sheet.pdf), 两个.
 	* 进度: 1.15对方收到50%预付, 已开始备货
