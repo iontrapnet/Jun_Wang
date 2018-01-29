@@ -12,9 +12,9 @@
 		* 目前无继续采购计划
 
 	* AOD
-		* 结果: 选定[Gooch & Housego AODF 4110](http://www.iontrap.net/Jun_Wang/购置/G&H/97-03283-02 SN2192 Data Sheet.pdf)(据代理说官网上的型号都太老了于是就没按原计划的3283);
-		* 与之匹配的[单路驱动](http://www.iontrap.net/Jun_Wang/购置/G&H/97-04500-04 Rev A.PDF)厂家也给了报价. 关于是否必要使用双路驱动已咨询, 正在等厂家确认. 
-		* 潜在问题: 虽然这回在付款交货方式上乙方同意50%预付, 但这[价格](http://www.iontrap.net/Jun_Wang/购置/G&H/171120-清华大学-声光偏转器.pdf)比预想的高啊, 感觉代理有点坑.
+		* 结果: 选定[Gooch & Housego AODF 4110](http://www.iontrap.net/Jun_Wang/购置/GoochHousegoAOD/97-03283-02 SN2192 Data Sheet.pdf)(据代理说官网上的型号都太老了于是就没按原计划的3283);
+		* 与之匹配的[单路驱动](http://www.iontrap.net/Jun_Wang/购置/GoochHousegoAOD/97-04500-04 Rev A.PDF)厂家也给了报价. 关于是否必要使用双路驱动已咨询, 正在等厂家确认. 
+		* 潜在问题: 虽然这回在付款交货方式上乙方同意50%预付, 但这[价格](http://www.iontrap.net/Jun_Wang/购置/GoochHousegoAOD/171120-清华大学-声光偏转器.pdf)比预想的高啊, 感觉代理有点坑.
 
 
 3. 其它事务
