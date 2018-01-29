@@ -8,3 +8,10 @@
 [十一月月报](http://www.iontrap.net/Jun_Wang/Nov2017/)
 
 [十二月月报](http://www.iontrap.net/Jun_Wang/Dec2017/)
+
+### 2018
+[一月月报](http://www.iontrap.net/Jun_Wang/Jan2018/)
+
+## 日常记录
+### 2018
+[一月](http://www.iontrap.net/Jun_Wang/Jan2018/WorkNote.md)
