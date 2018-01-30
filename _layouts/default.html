@@ -34,6 +34,11 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+          {% if page.usemathjax %}
+          <script type="text/javascript"
+              src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+          </script>
+          {% endif %}
           {{ content }}
         </section>
 
@@ -52,7 +57,7 @@
           <a href="{{ site.homurl }}/#report" class="button">月报</a>
           <a href="{{ site.homurl }}/#record" class="button">记录</a>
           <a href="{{ site.homurl }}/contact" class="button">
-          联系</a>
+          外链</a>
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>

@@ -4,7 +4,7 @@ title: Archive of Jun Wang at TIQC Lab
 ---
 
 ## 关于本仓库
-本仓库存放的是*王峻*在TIQC实验室所用的资料.
+本仓库存放的是[*王峻*](exlink)在TIQC实验室所用的资料.
 
 <h2><a name='report'>月报</a></h2>
 * 2017
