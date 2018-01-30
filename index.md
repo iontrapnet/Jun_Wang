@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Archive of Jun Wang at TIQC Lab
 ---
 
