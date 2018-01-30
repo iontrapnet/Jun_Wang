@@ -10,7 +10,7 @@ title: Archive of Jun Wang at TIQC Lab
 * 2017
 	* [十月](Oct2017/)
 	* [十一月](Nov2017/)
-	* [十二月](Dec2017/)
+	* [十二月](report/2017/12/30/RepDec2017)
 * 2018
 	* [一月](Jan2018/)
 
