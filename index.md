@@ -16,4 +16,4 @@ title: Archive of Jun Wang at TIQC Lab
 
 <h2><a name='record'>日常记录</a></h2>
 * 2018
-	* [一月](Jan2018/WorkNote.md)
+	* [一月](record/2018/01/12/WorkNote)
