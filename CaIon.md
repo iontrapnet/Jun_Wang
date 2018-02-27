@@ -8,7 +8,7 @@ usemathjax: true
 
 **Groud level:** $$^2S_{1/2}$$
 
-<img src="./images/CaLevel1.png">
+<img src="{{ site.homurl }}/images/CaLevel1.png">
 
 ## Doppler Cooling
 
