@@ -13,5 +13,6 @@ title: Archive of Jun Wang at TIQC Lab
 	* [十二月](report/2017/12/30/RepDec2017)
 * 2018
 	* [一月](report/2018/01/31/RepJan18)
+	* [三月](report/2018/04/02/RepMarch18)
 
 <h2><a href='WorkNote'>日常记录</a></h2>
